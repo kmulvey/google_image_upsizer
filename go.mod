@@ -1,11 +1,10 @@
 module github.com/kmulvey/imageupsizer
 
 go 1.22.2
-
 require (
 	github.com/chromedp/cdproto v0.0.0-20240501202034-ef67d660e9fd
 	github.com/chromedp/chromedp v0.9.5
-	github.com/kmulvey/concurrenthash v1.6.3
+	github.com/kmulvey/concurrenthash v1.6.5
 	github.com/kmulvey/humantime v0.4.4
 	github.com/kmulvey/path v1.22.0
 	github.com/sirupsen/logrus v1.9.3
@@ -35,7 +34,7 @@ require (
 	github.com/huandu/xstrings v1.4.0 // indirect
 	github.com/imdario/mergo v1.0.0 // indirect
 	github.com/josharian/intern v1.0.0 // indirect
-	github.com/kmulvey/goutils v0.6.0 // indirect
+	github.com/kmulvey/goutils v0.8.0 // indirect
 	github.com/lucasb-eyer/go-colorful v1.2.0 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
