@@ -3,8 +3,8 @@ module github.com/kmulvey/imageupsizer
 go 1.22.2
 
 require (
-	github.com/chromedp/cdproto v0.0.0-20240501202034-ef67d660e9fd
-	github.com/chromedp/chromedp v0.9.5
+	github.com/chromedp/cdproto v0.0.0-20240801214329-3f85d328b335
+	github.com/chromedp/chromedp v0.10.0
 	github.com/kmulvey/concurrenthash v1.6.3
 	github.com/kmulvey/humantime v0.4.4
 	github.com/kmulvey/path v1.22.0
@@ -52,7 +52,7 @@ require (
 	golang.org/x/crypto v0.23.0 // indirect
 	golang.org/x/exp v0.0.0-20240506185415-9bf2ced13842 // indirect
 	golang.org/x/sync v0.7.0 // indirect
-	golang.org/x/sys v0.20.0 // indirect
+	golang.org/x/sys v0.22.0 // indirect
 	golang.org/x/xerrors v0.0.0-20231012003039-104605ab7028 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
