@@ -10,7 +10,7 @@ require (
 	github.com/kmulvey/path v1.22.0
 	github.com/sirupsen/logrus v1.9.3
 	go.szostok.io/version v1.2.0
-	golang.org/x/image v0.16.0
+	golang.org/x/image v0.19.0
 )
 
 replace github.com/imdario/mergo => github.com/imdario/mergo v0.3.16
